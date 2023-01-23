@@ -303,7 +303,7 @@ ul, li {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    padding-right: 3%;
+    align-items: center;
     box-sizing: border-box;
 }
 
@@ -331,7 +331,7 @@ ul, li {
 }
 
 .services__list-el-img {
-    width: 100%;
+    width: 75%;
 }
 
 .employees__title {
